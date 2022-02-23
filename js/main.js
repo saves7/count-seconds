@@ -9,10 +9,10 @@ window.onload = function (e) {
     buttons[0].addEventListener('click', (e)=>{
         
         
-        clicked = true;
-        if(clicked){
+        
+       
             buttons[0].disabled = true;
-        } else { buttons[0].disabled = false;}
+      
 
         let i = 0;
         
